@@ -1,0 +1,39 @@
+_repo: Soliloques-sceptiques_40625
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40625-h/images/cover.jpg
+creator:
+  author:
+    agent_name: La Mothe Le Vayer, François de
+    aliases:
+    - Vayer, François de La Mothe Le
+    - Mothe Le Vayer, François de La
+    - Le Vayer, François de La Mothe
+    - La Mothe Le Vayer, Francois de
+    birthdate: 1588
+    deathdate: 1672
+    gutenberg_agent_id: '40736'
+    url: http://www.gutenberg.org/2009/agents/40736
+  editor:
+    agent_name: Liseux, Isidore
+    alias: Liseaux, Isidore
+    birthdate: 1835
+    deathdate: 1894
+    gutenberg_agent_id: '40737'
+    url: http://www.gutenberg.org/2009/agents/40737
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2012-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40625'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Skepticism'
+- !lcc 'PQ'
+title: Soliloques sceptiques
+url: http://www.gutenberg.org/ebooks/40625
